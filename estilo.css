@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#B1{
+    background-color: red;
+    border-radius: 10px;
+}
+
+.logo{
+    float: left;
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.logo2{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    float: right;
+    list-style-type: none;
+}
+
+strong{
+    color: #48D1CC;
+}
+
+#li{
+    float: left;
+    margin: 0 15px;
+}
+
+#clear{
+    clear: both;
+}
+
+.center{
+    margin: 0 auto;
+    width: 1400px;
+    text-decoration: none;
+    padding-top: 40px;
+}
+
+.link{
+    color: #48D1CC;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.btlog{
+    text-decoration: none;
+    color: #48D1CC;
+    border: 1px solid black;
+    padding: 10px 30px;
+    margin-left: 40px;
+}
+
+.btcad{
+    text-decoration: none;
+    color: #48D1CC;
+    background-color: black;
+    padding: 10px 30px;
+    border: 1px solid black;
+}
+
+.apresentacao{
+    padding-top: 30px;
+    float: left;
+}
+
+#h1{
+    font-size: 40px;
+}
+
+.img{
+    float: right;
+    padding: 60px 12px 0 0;
+}
+
+.img2{
+    float:left;
+    padding-top: 30px;
+}
+
+#btaposta{
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    background-color: red;
+}
+
+.bt{
+    padding-top: 30px;
+}
+
+.box{
+    width: 25%;
+    float: left;
+    padding-top: 50px;
+    font-size: 60px;
+}
+
+#velp, #sisp, #parp, #lavp{
+    font-size: 15px;
+}
+
+#velh, #sish, #parh, #lavh{
+    font-size: 20px;
+}
+
+.fa-bolt, .fa-gears, .fa-handshake-simple, .fa-hands-bubbles{
+    background-color: red;
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.sobre{
+    font-size: 30px;
+}
+
+.box2{
+    float: right;
+    width: 50%;
+    padding-top: 40px;
+}
+
+#desc{
+    font-size: 40px;
+}
+
+.fa-check{
+    background-color: #48D1CC;
+    border-radius: 40px;
+    font-size: 18px;
+    padding: 5px 5px;
+    float: left;
+}
+
+#detalhe{
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.bt2{
+    padding: 20px 0 20px 0;
+}
+
+#btsaber{
+    text-decoration: none;
+    background-color: red;
+    border: 5px;
+    color: white;
+    padding: 10px 30px;
+}
+
